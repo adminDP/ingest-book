@@ -1,0 +1,12 @@
+{
+  "name": "daniel-pokryvka",
+  "description": "Daniel Pokrývka's Claude Code plugins",
+  "owner": { "name": "Daniel Pokrývka" },
+  "plugins": [
+    {
+      "name": "ingest-book",
+      "source": "./",
+      "description": "Turn a PDF book or a website into a Markdown library Claude can grep and cite"
+    }
+  ]
+}

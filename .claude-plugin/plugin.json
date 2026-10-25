@@ -1,0 +1,17 @@
+{
+  "name": "ingest-book",
+  "version": "0.1.0",
+  "displayName": "Ingest Book",
+  "description": "Convert books, papers and websites into a greppable Markdown library for Claude: chapter files with page anchors, figures described as text, footnotes, an index and a verified QA report.",
+  "author": {
+    "name": "Daniel Pokrývka"
+  },
+  "keywords": [
+    "pdf",
+    "markdown",
+    "books",
+    "llm-wiki",
+    "knowledge-base",
+    "org-design"
+  ]
+}
